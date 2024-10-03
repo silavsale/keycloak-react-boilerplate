@@ -1,4 +1,4 @@
-import { Box } from "@chakra-ui/react/dist/types";
+import { Box } from "@chakra-ui/react";
 import { useKeycloak } from "@react-keycloak/web";
 
 const PrivateRoute = ({ children }) => {
